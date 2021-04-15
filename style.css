@@ -1,0 +1,56 @@
+body{
+    background-color: #d3d3d3;
+    
+  }
+  
+  #title{
+    text-align: center;
+    font-size: 60px;
+    
+  }
+  #man{
+    text-align: center;
+    font-size: 22px;
+    
+  }
+  
+  #img-div{
+    background-color: white;
+    padding: 10px 10px 20px 10px;
+  }
+  
+  #image{
+    width: 100%;
+    height: auto;
+  }
+  #img-caption{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+  }
+  #headline{
+    text-align:center;
+    font-size: 24px;
+  }
+  
+  ul {
+    font-size: 20px;
+    margin: 30px 300px 30px 300px;
+    
+    text-align: justify;
+  }
+  ul li {
+    margin: 0 0 20px 0;
+  }
+  
+  blockquote{
+    font-size: 20px;
+    margin: 20px 300px 20px 300px;
+    text-align: justify;
+  }
+  
+  .wikipedia {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 40px;
+  }
